@@ -10,3 +10,14 @@ This project was created to practice and demonstrate core HTML and CSS concepts.
 ## Technologies Used
 - HTML
 - CSS
+
+## 🚀 Live Demo  
+You can view the live version of this project here:  
+
+🔗 [Live Demo](https://saharzakersoltani.github.io/project-CSS-Fundamentals-3/)  
+
+Feel free to explore and let me know your thoughts! 😊  
+
+
+
+
